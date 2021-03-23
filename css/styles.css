@@ -72,7 +72,7 @@ nav .profile-link a{
     display: grid;
     grid-template-columns: 1fr 4fr 1fr;
     height: 100%;
-    background-image: url('https://i.imgur.com/YD2iAxi.jpg');
+    background-image: url('https://imgur.com/YD2iAxi');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
